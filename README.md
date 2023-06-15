@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm steven chieng</h1>
+<h1 align="center">Hi 👋, I'm Ochieng Otieno</h1>
 <h3 align="center">A passionate Web developer from Kenya</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochiengsteven&label=Profile%20views&color=0e75b6&style=flat" alt="ochiengsteven" /> </p>
