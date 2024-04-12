@@ -8,7 +8,7 @@
 
 
 
-- 👯  I’m open to collaborating!!!
+- :dependabot:  I’m open to Work!!!
 - 💬  Ask me about **HTML, CSS, JS & Github**
 - 👨‍💻  All of my projects are available at [Github.com](https://github.com/Ochiengsteven?tab=repositories)
 - 📫  You can reach me on [Twitter](https://twitter.com/legringo_madd) & [Linkedin](https://www.linkedin.com/in/steven-ochieng-a43125179/)
