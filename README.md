@@ -8,12 +8,12 @@
 
 
 
-- 🔭  I’m currently learning Microverse curriculum :bowtie:
 - 👯  I’m open to collaborating!!!
 - 💬  Ask me about **HTML, CSS, JS & Github**
 - 👨‍💻  All of my projects are available at [Github.com](https://github.com/Ochiengsteven?tab=repositories)
 - 📫  You can reach me on [Twitter](https://twitter.com/legringo_madd) & [Linkedin](https://www.linkedin.com/in/steven-ochieng-a43125179/)
 - 😄  Pronouns: he/him
+- 🔭  I’m currently learning Docker and Cloud technologies
 
 ### Languages and Tools:
 
