@@ -4,7 +4,7 @@
 
 A code enthusiast who is always eager to dive into new programming challenges.
 
-<a href="https://github.com/Ochiengsteven"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=How+can+I+help+you?;Wanna+see+my+projects?;Feel+free+to+explore+all+of+them.;" alt="Typing SVG"></a>
+<a href="https://github.com/Ochiengsteven"><img src="https://readme-typing-svg.demolab.com?color=%2336BCF7&center=true&vCenter=true&lines=How+can+I+help+you?;Wanna+see+my+projects?;Feel+free+to+explore+all+of+them.;" alt="Typing SVG"></a>
 
 ### About Me
 
@@ -41,7 +41,7 @@ A code enthusiast who is always eager to dive into new programming challenges.
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ochiengsteven&" alt="Ochiengsteven's contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ochiengsteven" alt="Ochiengsteven's contribution streak" />
 </p>
 
 ### ✍️ Random Dev Quote
