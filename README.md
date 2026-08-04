@@ -33,7 +33,7 @@ A code enthusiast who is always eager to dive into new programming challenges.
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Ochiengsteven&theme=dark&hide_border=true" alt="Ochiengsteven's contribution streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ochiengsteven&theme=dark&hide_border=true&disable_animations=true" alt="Ochiengsteven's contribution streak" />
 </p>
 
 <p align="left">
