@@ -33,15 +33,11 @@ A code enthusiast who is always eager to dive into new programming challenges.
 ### GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ochiengsteven&show_icons=true&locale=en&layout=compact" alt="Ochiengsteven's most used languages" />
+  <img src="https://streak-stats.demolab.com/?user=Ochiengsteven&theme=dark&hide_border=true" alt="Ochiengsteven's contribution streak" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ochiengsteven&show_icons=true&locale=en" alt="Ochiengsteven's GitHub stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com/?user=Ochiengsteven" alt="Ochiengsteven's contribution streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ochiengsteven&theme=github-compact&hide_border=true" alt="Ochiengsteven's contribution graph" />
 </p>
 
 ### ✍️ Random Dev Quote
